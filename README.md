@@ -1,13 +1,19 @@
 # channel.ThePrimeagen
 https://www.youtube.com/@ThePrimeTimeagen
 
+- [I Spent 18 Months Using Rust And Regret It](https://youtu.be/7ySVWcFHz98)
+- 
 - [I Will Not Write Rust Again](https://youtu.be/1Di8X2vRNRE)
 - [ThePrimeagen explains Neovim to Lex Fridman](https://youtu.be/PkbjvbjLAug)
 - [How to learn programming | ThePrimeagen and Lex Fridman](https://youtu.be/z-U1r4k5r2s)
 - [5 Things I Hate About JavaScript](https://youtu.be/14jlIxVrcvo)
 - [How am I suppose to get a job as a software engineer?](https://youtu.be/nmhX3_m84Is)
 
+# IDE:
+- [Adults only IDE?](https://youtu.be/YHEllXe8iNs)
+
 # Language:
+- [Every programming language explained in 15 minutes | Prime Reacts](https://youtu.be/jQiYW3RXkFU)
 
 ## List:
 - [ThePrimeagen's top 5 programming languages | Lex Fridman Podcast Clips](https://youtu.be/522n1GW-4nM)
