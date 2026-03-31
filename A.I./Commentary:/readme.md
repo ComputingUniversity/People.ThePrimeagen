@@ -1,2 +1,3 @@
 - [What is wrong with us?!](https://youtu.be/ZJEnQOsMtsU)
 - [AI Personal Assistants are ruining people lives | TheStandup](https://youtu.be/LpMn08jW02A)
+- [AI Scuffed Programming](https://www.youtube.com/shorts/D9q5wnX2_DY)
